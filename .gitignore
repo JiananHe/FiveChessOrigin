@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+
+**/Debug/
+/FiveChess/.vs
+*.ini
+*.aps
+**/res/
