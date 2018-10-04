@@ -32,7 +32,6 @@
 *.app
 
 
-
 **/Debug/
 /FiveChess/.vs
 *.ini
