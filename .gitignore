@@ -31,7 +31,7 @@
 *.out
 *.app
 
-/FiveChess/.vs/*
+/FiveChess/.vs/FiveChess/v15/*
 !/FiveChess/.vs/FiveChess/v15/.suo
 **/Debug/
 *.ini
