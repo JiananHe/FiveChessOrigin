@@ -33,7 +33,6 @@
 
 
 **/Debug/
-/FiveChess/.vs
 *.ini
 *.aps
 **/res/
